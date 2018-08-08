@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.stefan-jonasson:curriculum-parser:06c133a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/stefan-jonasson/curriculum-parser/06c133a/curriculum-parser-06c133a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/stefan-jonasson/curriculum-parser/06c133a/curriculum-parser-06c133a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/stefan-jonasson/curriculum-parser/06c133a/curriculum-parser-06c133a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
